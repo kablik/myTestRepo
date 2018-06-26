@@ -1,7 +1,6 @@
-function lol(){
-	var hm="sdvsdvs";
-	console.log("hmmm", hmmm)
+function lol() {
+  var hm = "sdvsdvs";
+  console.log("hmmm", hmmm);
 }
 
-lol () ;
-
+lol();
